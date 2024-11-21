@@ -52,3 +52,17 @@ But make sure to turn off your Antivirus as well, and you can do it by right-cli
 " width="400" >
 </a>
 </div>
+
+KEYS:
+
+kms
+
+kmsauto
+
+kms auto
+
+kmsautonet
+
+kms net
+
+kms portable
